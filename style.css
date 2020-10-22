@@ -1,0 +1,53 @@
+body {
+    text-align: center;
+    background: linear-gradient(#09eb91, #8909eb);
+}
+
+#header {
+    font-family: cursive;
+    font-size: 30px;
+    color: darkmagenta;
+    font-variant: small-caps;
+    border: royalblue solid 5px;
+}
+
+.places {
+    font-size: 25px;
+    font-variant: small-caps;
+    color: darkorange;
+}
+
+#delhi {
+    width: 250px;
+    height: 250px;
+    border: darkblue solid 5px;
+    padding: 8px;
+}
+
+#agra {
+    width: 250px;
+    height: 250px;
+    border: darkblue solid 5px;
+    padding: 8px;
+}
+
+#mumbai {
+    width: 250px;s
+    height: 250px;
+    border: darkblue solid 5px;
+    padding: 8px;
+}
+
+#varanasi {
+    width: 250px;
+    height: 250px;
+    border: darkblue solid 5px;
+    padding: 8px;
+}
+
+#jaipur {
+    width: 250px;
+    height: 250px;
+    border: darkblue solid 5px;
+    padding: 8px;
+}
